@@ -1,0 +1,22 @@
+{
+  "name": "jest-intro",
+  "version": "1.0.0",
+  "description": "To use this repository: - Click the \"Use this template\" button in the upper right - Choose a name for your repository and create it - In your own repository, click the green \"Gitpod\" button",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszkukla/jest-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszkukla/jest-intro/issues"
+  },
+  "homepage": "https://github.com/lukaszkukla/jest-intro#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
